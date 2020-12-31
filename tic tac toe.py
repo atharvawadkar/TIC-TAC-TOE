@@ -1,7 +1,4 @@
-"""
-    This is a simple game called TicTacToe and must be played with 2 players
-    The IDE used is PyCharm
-"""
+
 import random
 
 board = ['k', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
